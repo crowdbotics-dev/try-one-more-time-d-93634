@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.1.1",
+    "cookiecutter_context": {
+      "project_name": "try-one-more-time",
+      "project_slug": "try_one_more_time_d_93634",
+      "project_dash_slug": "try-one-more-time-d-93634",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "quan.nguyen+test@crowdbotics.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
